@@ -4,4 +4,4 @@ for i in range(97, 123):
     if i == "q" or i == "e":
         continue
     else:
-        print(f"{i}", end = "")
+        print(f"{i}", end="")
