@@ -12,4 +12,4 @@ if __name__ == "__main__":
             j = 1
             print("{} arguments:".format(num))
             print("{}: {}".format(j, i))
-            j = j + 1
+            j += 1
