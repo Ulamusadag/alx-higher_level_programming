@@ -6,9 +6,9 @@ def is_same_class(obj, a_class):
     """ checks of is instance
 
     Args:
-    obj(any): the object
-    a_class (type): class
+        obj(any): the object
+        a_class (type): class
     Returns:
-    return
+        return
     """
-    return isinstance(obj, a_class)
+    return (isinstance(obj, a_class))
