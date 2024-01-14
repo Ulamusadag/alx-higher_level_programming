@@ -1,4 +1,4 @@
-#!/usr/bin/puyhon3
+#!/usr/bin/python3
 """module"""
 
 
